@@ -1,0 +1,6 @@
+project: fdg
+target: graph-from-json
+cmds:
+    - cmd: /graph_from_json
+testsuite:
+    - file://mayhem/json
